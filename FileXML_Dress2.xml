@@ -1,6 +1,6 @@
 <prodotti>
     <prodotto>
-        <immagine>Immagini/3.jgep</immagine>
+        <immagine>Immagini/7.jgep</immagine>
         <nome>vestito</nome>
         <prezzo>50</prezzo>
         <taglia>S</taglia>
@@ -10,7 +10,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8689b2108b7149d39cd7ea47b97450d8_9366/Felpa_Crew_Originals_FC_Bayern_Munchen_Bianco_IQ3543_DM1.jpg</immagine>
+        <immagine>Immagini/8.jgep</immagine>
         <nome>Easy</nome>
         <prezzo>75</prezzo>
         <taglia>M</taglia>
@@ -19,7 +19,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca05bfa502b74ad89ab2678dbfed8b84_9366/Leggings_FC_Bayern_Munchen_Rosso_IM1924.jpg</immagine>
+        <immagine>Immagini/9.jgep</immagine>
         <nome>Neon</nome>
         <prezzo>55</prezzo>
         <taglia>L</taglia>
@@ -29,7 +29,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d64409bf3ecf4d0ebf0adf1d54c306f7_9366/Polo_Tiro_23_Manchester_United_FC_Bianco_IA7240.jpg</immagine>
+        <immagine>Immagini/10.jgep</immagine>
         <nome>HaileyBieber</nome>
         <prezzo>50</prezzo>
         <taglia>XS</taglia>
@@ -39,7 +39,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b371c4f8b60e4282ac2be2c783d9116b_9366/Felpa_Pre-Match_Warm_Real_Madrid_Grigio_IB0031.jpg</immagine>
+        <immagine>Immagini/11.jgep</immagine>
         <nome>Selvaggio</nome>
         <prezzo>110</prezzo>
         <taglia>XS</taglia>
@@ -49,7 +49,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5a8f91db0dcd4f95b51d12a3125b3ec6_9366/Giacca_da_allenamento_Beckenbauer_Arsenal_FC_Blu_IK8711_DM1.jpg</immagine>
+        <immagine>Immagini/12.jgep</immagine>
         <nome>Rusty</nome>
         <prezzo>80</prezzo>
         <taglia>S</taglia>
