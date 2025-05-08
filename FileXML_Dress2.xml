@@ -1,6 +1,6 @@
 <prodotti>
     <prodotto>
-        <immagine>Immagini/7.jgp</immagine>
+        <immagine>Immagini/7.jpeg</immagine>
         <nome>vestito</nome>
         <prezzo>50</prezzo>
         <taglia>S</taglia>
@@ -10,7 +10,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/8.jgp</immagine>
+        <immagine>Immagini/8.jpeg</immagine>
         <nome>Easy</nome>
         <prezzo>75</prezzo>
         <taglia>M</taglia>
@@ -19,7 +19,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/9.jgp</immagine>
+        <immagine>Immagini/9.jpeg</immagine>
         <nome>Neon</nome>
         <prezzo>55</prezzo>
         <taglia>L</taglia>
@@ -29,7 +29,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/10.jgp</immagine>
+        <immagine>Immagini/10.jpeg</immagine>
         <nome>HaileyBieber</nome>
         <prezzo>50</prezzo>
         <taglia>XS</taglia>
@@ -39,7 +39,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/11.jgp</immagine>
+        <immagine>Immagini/11.jpeg</immagine>
         <nome>Selvaggio</nome>
         <prezzo>110</prezzo>
         <taglia>XS</taglia>
@@ -49,7 +49,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/12.jgp</immagine>
+        <immagine>Immagini/12.jpeg</immagine>
         <nome>Rusty</nome>
         <prezzo>80</prezzo>
         <taglia>S</taglia>
