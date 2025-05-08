@@ -1,6 +1,6 @@
 <prodotti>
     <prodotto>
-        <immagine>Immagini/31.jgp</immagine>
+        <immagine>Immagini/31.jpeg</immagine>
         <nome>Whispers</nome>
         <prezzo>470</prezzo>
         <taglia>S</taglia>
@@ -8,7 +8,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/32.jgp</immagine>
+        <immagine>Immagini/32.jpeg</immagine>
         <nome>Orio</nome>
         <prezzo>820</prezzo>
         <taglia>M</taglia>
@@ -16,7 +16,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/33.jgp</immagine>
+        <immagine>Immagini/33.jpeg</immagine>
         <nome>Onde</nome>
         <prezzo>1.800</prezzo>
         <taglia>M</taglia>
@@ -24,7 +24,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/34.jgp</immagine>
+        <immagine>Immagini/34.jpeg</immagine>
         <nome>Rosè</nome>
         <prezzo>5.300</prezzo>
         <taglia>S</taglia>
@@ -32,7 +32,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/35.jgp</immagine>
+        <immagine>Immagini/35.jpeg</immagine>
         <nome>Blush</nome>
         <prezzo>890</prezzo>
         <taglia>S</taglia>
@@ -40,7 +40,7 @@
     </prodotto>
 
     <prodotto>
-        <immagine>Immagini/36.jgp</immagine>
+        <immagine>Immagini/36.jpeg</immagine>
         <nome>Lily</nome>
         <prezzo>550</prezzo>
         <taglia>L</taglia>
